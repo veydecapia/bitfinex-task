@@ -104,6 +104,7 @@ This will run the automated test that covers the following test cases: <br/>
 * should have 200 response status code
 * should contain 10 values
 * should be numbers
+<br/>Note: The above test also contains the printing of index and its value. Values are arranged in descending order based on the array indeces.
 <br/>
 
 2. While the test is running, the reporter will send updates of the test pass fail status on the command line.<br/> 
